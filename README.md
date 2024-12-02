@@ -8,7 +8,6 @@
 💡 Love solving problems and creating practical solutions
 
 ## 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kaiiquex_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kaique-geraldo)
 
 
