@@ -1,5 +1,5 @@
 ## 👨‍💻 About me:
-🎓 Technical Student in Systems Development at Senai-Marília
+🎓 Systems Development Technician
 
 🚀 Passionate about software development and innovative technologies
 
