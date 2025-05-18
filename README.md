@@ -10,13 +10,12 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kaique-geraldo)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kaiique2404@gmail.com)
-[![Portifólio](https://img.shields.io/badge/Portfólio-%2300008B?style=for-the-badge)](https://kaiquegeraldo.github.io/portifolio)
+[![Portifólio](https://img.shields.io/badge/Portfólio-%2300008B?style=for-the-badge)](https://kaique.dev.br)
 
 ## 🛠️ Tech Stack:
 
 ### 🚀 Programming Languages:
 <p>
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">&nbsp;
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square">
@@ -32,7 +31,6 @@
 
 ### ⚙️ Frameworks & Technologies:
 <p>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square">&nbsp;
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square">&nbsp;
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square">&nbsp;
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square">&nbsp;
